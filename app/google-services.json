@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24682624492",
+    "project_id": "clone-daf68",
+    "storage_bucket": "clone-daf68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24682624492:android:b6c8c725a44f3111403cc9",
+        "android_client_info": {
+          "package_name": "com.example.amazonclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1grLJ9551IyxDx-OabWTS_0UphVtNKTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
